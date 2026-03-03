@@ -1,0 +1,17 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d14"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#00fff5"/>
+    </marker>
+  </defs>
+  <rect width="900" height="260" fill="url(#bg)"/>
+  <text x="450" y="28" font-family="monospace" font-size="12" font-weight="bold" fill="#00fff5" text-anchor="middle">MULTI-CLOUD DWH — Redshift + Synapse + BigQuery</text>
+  <rect x="20" y="115" width="120" height="55" rx="4" fill="#0a0a1a" stroke="#00fff5" stroke-width="1.5"/><text x="80" y="137" font-family="monospace" font-size="8" fill="#00fff5" text-anchor="middle">Redshift +</text><text x="80" y="150" font-family="monospace" font-size="8" fill="#00fff5" text-anchor="middle">Synapse + BigQuery</text><rect x="266" y="115" width="120" height="55" rx="4" fill="#0a0a1a" stroke="#00fff5" stroke-width="1.5"/><text x="326" y="137" font-family="monospace" font-size="8" fill="#00fff5" text-anchor="middle">Query Router</text><rect x="512" y="115" width="120" height="55" rx="4" fill="#0a0a1a" stroke="#00fff5" stroke-width="1.5"/><text x="572" y="137" font-family="monospace" font-size="8" fill="#00fff5" text-anchor="middle">Unified API</text><rect x="758" y="115" width="120" height="55" rx="4" fill="#0a0a1a" stroke="#00fff5" stroke-width="1.5"/><text x="818" y="137" font-family="monospace" font-size="8" fill="#00fff5" text-anchor="middle">BI Tools</text>
+  <line x1="140" y1="142" x2="260" y2="142" stroke="#00fff5" stroke-width="1.5" marker-end="url(#arr)"/><line x1="386" y1="142" x2="506" y2="142" stroke="#00fff5" stroke-width="1.5" marker-end="url(#arr)"/><line x1="632" y1="142" x2="752" y2="142" stroke="#00fff5" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="20" y="205" width="860" height="35" rx="4" fill="#070710" stroke="#00fff5" stroke-width="0.5" stroke-opacity="0.3"/>
+  <text x="450" y="227" font-family="monospace" font-size="10" fill="#00fff5" text-anchor="middle">github.com/itsnikhile/multi-cloud-data-warehouse</text>
+</svg>

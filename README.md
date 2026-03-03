@@ -92,4 +92,4 @@ Copy `.env.example` to `.env` and fill in your credentials.
 
 ---
 
-> Built by [Nikhil E](https://github.com/itsnikhile) — Senior Data Engineer
+> Built by [Nikhil E](https://github.com/itsnikhile) — Sr Data Engineer
